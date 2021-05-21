@@ -1,0 +1,2 @@
+ECHO be happy
+PAUSE
